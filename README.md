@@ -1,10 +1,8 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-### Template
+### Utilização de Inteligência Artificial no Setor Bancário: Depósitos Judiciais e a Lei Complementar 151/2015
 
 ```markdown
-# Utilização de Inteligência Artificial no Setor Bancário: Depósitos Judiciais e a Lei Complementar 151/2015
-
 
 ## 📒 Descrição
 A inteligência artificial (IA) tem se tornado uma ferramenta poderosa em diversos setores, incluindo o bancário. Um dos ramos que mais se beneficia dessa tecnologia é o de depósitos judiciais, especialmente no contexto das Leis de Repasse. Este e-book visa explicar de forma detalhada e acessível a utilização da IA nesse contexto, com foco na Lei Complementar (LC) 151/2015.
